@@ -1,7 +1,7 @@
 // Edit these two values to personalize the entire website.
 const SITE_CONFIG = {
-  teacherName: "Emma",
-  whatsappNumber: "212600000000",
+  teacherName: "Mohamed",
+  whatsappNumber: "212704192622",
 };
 
 document.querySelectorAll("[data-teacher-name]").forEach((element) => {
